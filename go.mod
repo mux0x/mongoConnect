@@ -1,4 +1,4 @@
-module github.com/mux0x/github-guard
+module github.com/mux0x/mongoConnect
 
 go 1.19
 
